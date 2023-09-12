@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Shankar Karuppayah](mailto:shankar.karuppayah@owasp.org)
+* [Selvakumar Manickam](mailto:selvakumar.manickam@owasp.org)
